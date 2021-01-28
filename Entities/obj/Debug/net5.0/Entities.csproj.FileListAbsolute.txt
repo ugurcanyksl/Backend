@@ -1,0 +1,10 @@
+C:\Users\90531\source\repos\JRBackend\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\90531\source\repos\JRBackend\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\90531\source\repos\JRBackend\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\90531\source\repos\JRBackend\Entities\obj\Debug\net5.0\Entities.csprojAssemblyReference.cache
+C:\Users\90531\source\repos\JRBackend\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90531\source\repos\JRBackend\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\90531\source\repos\JRBackend\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\90531\source\repos\JRBackend\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\90531\source\repos\JRBackend\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\90531\source\repos\JRBackend\Entities\obj\Debug\net5.0\Entities.pdb

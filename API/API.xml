@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>API</name>
+    </assembly>
+    <members>
+        <member name="M:API.Controllers.ValuesController.Get">
+            <summary>
+            Get All Cars
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:API.Controllers.ValuesController.Get(System.Int32)">
+            <summary>
+            Get Cars By id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:API.Controllers.ValuesController.Post(Entities.Car)">
+            <summary>
+            Create an Car
+            </summary>
+            <param name="car"></param>
+            <returns></returns>
+        </member>
+        <member name="M:API.Controllers.ValuesController.Put(Entities.Car)">
+            <summary>
+            Update the Car
+            </summary>
+            <param name="car"></param>
+            <returns></returns>
+        </member>
+        <member name="M:API.Controllers.ValuesController.Delete(System.Int32)">
+            <summary>
+            Delete the Car
+            </summary>
+            <param name="id"></param>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,16 @@
+C:\Users\90531\source\repos\JRBackend\DataAccess\bin\Debug\net5.0\Entities.dll
+C:\Users\90531\source\repos\JRBackend\DataAccess\obj\Debug\net5.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\90531\source\repos\JRBackend\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90531\source\repos\JRBackend\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\90531\source\repos\JRBackend\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\90531\source\repos\JRBackend\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\90531\source\repos\JRBackend\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.json
+C:\Users\90531\source\repos\JRBackend\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.dev.json
+C:\Users\90531\source\repos\JRBackend\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\90531\source\repos\JRBackend\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\90531\source\repos\JRBackend\DataAccess\bin\Debug\net5.0\Entities.pdb
+C:\Users\90531\source\repos\JRBackend\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\90531\source\repos\JRBackend\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\90531\source\repos\JRBackend\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\90531\source\repos\JRBackend\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\90531\source\repos\JRBackend\DataAccess\obj\Debug\net5.0\DataAccess.genruntimeconfig.cache
